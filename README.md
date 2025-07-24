@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/muhammad-tahir-ali-b6256920a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:muhammadtahirali01@gmail.com">
+  <a href="mailto:tahir824raja@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -14,37 +14,40 @@
 
 ### 🧠 About Me
 
-- 🎓 Final Year Electrical Engineering Student @ NUST  
-- 🧠 Deep Learning | MLOps | Computer Vision | Model Deployment  
-- 💡 Passionate about applying AI in **healthcare**, **embedded systems**, and **edge computing**
-- 🌐 Actively looking for **remote AI/ML internships, research roles, and freelance projects**
+- 🎓 Electrical Engineer @NUST 
+- 🧠 Deep Learning | MLOps | Computer Vision | Data Science
+- 💡 Passionate about applying AI in **healthcare**, **AL/ML/GenAI**, and **edge computing**
 
 ---
 
 ### 🔭 Featured Projects
 
-#### 🚑 Skin Lesion Classification System (ISIC 2019)
+#### 🚑 Skin Lesion Classification System 
 > **Tech Stack**: Vision Transformer (ViT), PyTorch, MLflow, TorchServe, Docker, Streamlit  
 - Trained a 9-class skin lesion classifier using ViT with over **88% accuracy**
 - Built a full **MLOps pipeline** with **MLflow** tracking, **Streamlit** UI, and **TorchServe REST API**
 - Fully containerized with **Docker Compose** for seamless local reproducibility  
 
-#### 🧠 CT-to-MRI Scan Translation (FYP)
-> **Tech Stack**: Vision Transformer, U-Net, TensorFlow, FPGA Deployment (Altera)  
-- Developed a transformer-based pipeline to translate CT scans into MRI representations  
-- Optimized for FPGA deployment using fixed-point quantization for edge inferencing  
+#### 🧠 CT-to-MRI Scan Translation (Capstone Project)
+> **Tech Stack**: Pix2Pix (GAN), TensorFlow, C Programming, Inference Pipeline  
+- Developed a Pix2Pix based pipeline in C language to translate CT scans into MRI scans with **~96% accuracy**  
+- Optimized for DSP Kit deployment for edge inferencing  
 - Focused on low-latency real-time image synthesis for **resource-constrained devices**
 
 ---
 
-### 🛠️ Languages & Tools
+### 🧠 Tech Stack & Tools
 
-<p align="center">
-  <img src="https://github.com/Muhammad-Tahir-Ali/Muhammad-Tahir-Ali/blob/main/assets/tools-banner.png" alt="Languages and Tools" width="95%"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Verilog-008080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FPGA-Altera-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
-> *(Banner generated from your attached image. Upload it as `assets/tools-banner.png` in your GitHub repo.)*
-
 ---
 
 ### 📈 GitHub Stats
@@ -58,7 +61,7 @@
 
 ### 🤝 Let’s Collaborate!
 
-- 📫 Reach me: muhammadtahirali01@gmail.com  
+- 📫 Reach me: tahir824raja@gmail.com  
 - 💼 Open to: Research Collabs • ML Internships • AI Projects • Freelance MLOps  
 - 💬 Let's talk about AI for Healthcare, Transformers, or anything Python!
 
