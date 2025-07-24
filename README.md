@@ -48,14 +48,6 @@
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
----
-
-### 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Tahir-Ali&show_icons=true&theme=tokyonight&count_private=true&hide=prs,issues" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Tahir-Ali&layout=compact&theme=tokyonight&hide=javascript,html,css" height="180"/>
-</p>
 
 ---
 
