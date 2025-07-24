@@ -50,14 +50,27 @@
 </p>
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Tahir-Ali&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Tahir-Ali&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Tahir-Ali&show_icons=true&theme=tokyonight&count_private=true&hide=prs,issues" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Tahir-Ali&layout=compact&theme=tokyonight&hide=javascript,html,css" height="180"/>
 </p>
 
 ---
+
+### 🧠 My Core Skills & Focus Areas
+
+| Domain                  | Tools & Frameworks                                                                 |
+|------------------------|-------------------------------------------------------------------------------------|
+| **AI/ML Development**  | Python, PyTorch, TensorFlow, Keras, Scikit-learn                                   |
+| **Computer Vision**     | OpenCV, CNNs, Vision Transformers, Medical Imaging (CT, MRI)                       |
+| **MLOps & Deployment** | MLflow, TorchServe, Streamlit, REST APIs, Docker, Docker Compose                   |
+| **Hardware/Embedded**  | Verilog, FPGA (Altera/Intel), Model Quantization, Real-Time Inference              |
+| **Dev Tools**          | GitHub, Jupyter, Visual Studio Code, MATLAB, Arduino                               |
+
+---
+
 
 ### 🤝 Let’s Collaborate!
 
