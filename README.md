@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Muhammad Tahir Ali</h1>
-<h3 align="center">Data Analysis | Data Science | Machine Learning | Computer Vision | Edge Computing |</h3>
+<h3 align="center">Data Analysis | Data Science | Machine Learning | Computer Vision | Edge Computing </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-tahir-ali-b6256920a/" target="_blank">
